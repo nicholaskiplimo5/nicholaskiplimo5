@@ -1,4 +1,4 @@
-- 👋 Hi, I’m nicholas kiplimo
+- 👋 Hi, I’m nicholas kiplimo, From Kenya
 - 👀 I’m interested in sofware development
 - 🌱 I’m currently working with Turnkey Africa Ltd as software Engineer
 <!---
